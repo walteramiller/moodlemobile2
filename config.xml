@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.agapefaithworks.mobile" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>AgapeFaithWorks</name>
-  <description>Official Agape Faith Works app</description>
+  <description>Official Agape FaithWorks App</description>
   <author href="http://agapefaithworks.org" email="admin@agapefaithworks.org">Walter Miller</author>
   <content src="index.html"/>
   <access origin="*"/>
